@@ -1,0 +1,195 @@
+[15-Feb-2016 13:49:35 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function mysqli_init() in /home/oonir/public_html/ws/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[15-Feb-2016 13:50:12 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function mysqli_init() in /home/oonir/public_html/ws/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[15-Feb-2016 13:50:13 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function mysqli_init() in /home/oonir/public_html/ws/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[15-Feb-2016 13:50:14 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function mysqli_init() in /home/oonir/public_html/ws/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[15-Feb-2016 13:59:59 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function mysqli_init() in /home/oonir/public_html/ws/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[15-Feb-2016 14:02:35 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function mysqli_init() in /home/oonir/public_html/ws/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[15-Feb-2016 14:19:26 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function mysqli_init() in /home/oonir/public_html/ws/system/database/drivers/mysqli/mysqli_driver.php on line 126
+[17-Feb-2016 01:14:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 3780
+[17-Feb-2016 14:05:12 ASIA/KOLKATA] PHP Fatal error:  Cannot redeclare class FPDF in /home/oonir/public_html/ws/application/fpdf/fpdf.php on line 13
+[17-Feb-2016 02:36:02 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3995
+[17-Feb-2016 14:08:24 ASIA/KOLKATA] PHP Fatal error:  Cannot redeclare class FPDF in /home/oonir/public_html/ws/application/fpdf/fpdf.php on line 13
+[17-Feb-2016 14:08:38 ASIA/KOLKATA] PHP Fatal error:  Cannot redeclare class FPDF in /home/oonir/public_html/ws/application/fpdf/fpdf.php on line 13
+[18-Feb-2016 01:20:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 1220
+[18-Feb-2016 14:06:41 ASIA/KOLKATA] PHP Fatal error:  Call to undefined method Tran_model::update_badge() in /home/oonir/public_html/ws/application/controllers/Api.php on line 2308
+[18-Feb-2016 14:14:33 ASIA/KOLKATA] PHP Fatal error:  Call to undefined method Tran_model::update_badge() in /home/oonir/public_html/ws/application/controllers/Api.php on line 2308
+[18-Feb-2016 16:50:54 ASIA/KOLKATA] PHP Fatal error:  Class 'Tran_model' not found in /home/oonir/public_html/ws/system/core/Loader.php on line 305
+[18-Feb-2016 16:51:10 ASIA/KOLKATA] PHP Fatal error:  Class 'Tran_model' not found in /home/oonir/public_html/ws/system/core/Loader.php on line 305
+[18-Feb-2016 07:20:16 America/Chicago] PHP Parse error:  syntax error, unexpected ''"  where tkr' (T_ENCAPSED_AND_WHITESPACE) in /home/oonir/public_html/ws/application/controllers/Api.php on line 2074
+[18-Feb-2016 19:09:26 ASIA/KOLKATA] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/models/Tran_model.php on line 289
+[18-Feb-2016 07:41:53 America/Chicago] PHP Warning:  Unterminated comment starting line 3851 in /home/oonir/public_html/ws/application/controllers/Api.php on line 3851
+[18-Feb-2016 07:41:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 3851
+[18-Feb-2016 07:46:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 3429
+[19-Feb-2016 02:58:44 America/Chicago] PHP Warning:  Unterminated comment starting line 956 in /home/oonir/public_html/ws/application/controllers/Api.php on line 956
+[19-Feb-2016 02:58:44 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home/oonir/public_html/ws/application/controllers/Api.php on line 956
+[19-Feb-2016 04:06:13 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[24-Feb-2016 02:55:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 3530
+[25-Feb-2016 05:55:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2148
+[25-Feb-2016 05:58:50 America/Chicago] PHP Parse error:  syntax error, unexpected ''select message,DATE_F' (T_ENCAPSED_AND_WHITESPACE) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[25-Feb-2016 06:01:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 4227
+[25-Feb-2016 17:31:25 ASIA/KOLKATA] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/oonir/public_html/ws/application/controllers/Api.php on line 2162
+[25-Feb-2016 17:31:28 ASIA/KOLKATA] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/oonir/public_html/ws/application/controllers/Api.php on line 2162
+[25-Feb-2016 17:31:29 ASIA/KOLKATA] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/oonir/public_html/ws/application/controllers/Api.php on line 2162
+[25-Feb-2016 06:02:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oonir/public_html/ws/application/controllers/Api.php on line 229
+[25-Feb-2016 08:58:07 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 08:58:09 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 08:58:15 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 08:58:34 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 09:05:47 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 09:30:27 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 09:45:25 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:16:47 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:22:32 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:23:46 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:26:47 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:26:48 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:27:04 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:27:21 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:27:59 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:29:10 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:29:25 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:29:29 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:31:04 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:39:33 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:42:49 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:42:52 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:43:12 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:43:14 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:43:16 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3894
+[25-Feb-2016 10:43:57 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3896
+[25-Feb-2016 10:44:34 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3897
+[25-Feb-2016 10:45:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 15
+[25-Feb-2016 10:45:20 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3896
+[26-Feb-2016 02:13:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 536
+[26-Feb-2016 02:30:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 3970
+[26-Feb-2016 02:45:29 America/Chicago] PHP Parse error:  syntax error, unexpected ' = $this-' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3231
+[26-Feb-2016 02:57:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 536
+[26-Feb-2016 02:57:28 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:57:39 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:57:41 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:57:47 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:57:48 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:57:51 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:57:53 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:57:54 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:57:55 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:57:57 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:58:03 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:58:08 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:58:16 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:58:18 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:58:20 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:58:25 America/Chicago] PHP Parse error:  syntax error, unexpected ''%Y-%m-%d %H:%i:%s'' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 02:58:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 536
+[26-Feb-2016 03:00:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2150
+[26-Feb-2016 03:03:07 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 81
+[26-Feb-2016 03:03:07 America/Chicago] PHP Parse error:  syntax error, unexpected ''select message,DATE_F' (T_ENCAPSED_AND_WHITESPACE) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1207
+[26-Feb-2016 03:23:23 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 81
+[26-Feb-2016 03:23:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2154
+[26-Feb-2016 08:30:07 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 81
+[29-Feb-2016 02:16:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oonir/public_html/ws/application/controllers/Api.php on line 229
+[29-Feb-2016 02:16:23 America/Chicago] PHP Parse error:  syntax error, unexpected ''select r.* ,u.u' (T_ENCAPSED_AND_WHITESPACE) in /home/oonir/public_html/ws/application/controllers/Api.php on line 3843
+[29-Feb-2016 02:19:17 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 535
+[29-Feb-2016 02:42:28 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 535
+[29-Feb-2016 03:06:50 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 81
+[29-Feb-2016 03:06:51 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2185
+[29-Feb-2016 03:15:16 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oonir/public_html/ws/application/controllers/Api.php on line 229
+[29-Feb-2016 03:15:17 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2183
+[29-Feb-2016 03:15:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'a' in /home/oonir/public_html/ws/application/controllers/Api.php on line 2391
+[29-Feb-2016 03:21:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 1199
+[29-Feb-2016 03:23:10 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2183
+[29-Feb-2016 03:23:21 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oonir/public_html/ws/application/controllers/Api.php on line 229
+[29-Feb-2016 03:23:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2183
+[29-Feb-2016 03:53:14 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 1199
+[29-Feb-2016 16:51:59 ASIA/KOLKATA] PHP Parse error:  syntax error, unexpected '$current_date444' (T_VARIABLE), expecting ',' or ';' in /home/oonir/public_html/ws/application/models/Tran_model.php on line 453
+[29-Feb-2016 16:52:00 ASIA/KOLKATA] PHP Parse error:  syntax error, unexpected '$current_date444' (T_VARIABLE), expecting ',' or ';' in /home/oonir/public_html/ws/application/models/Tran_model.php on line 453
+[29-Feb-2016 16:52:02 ASIA/KOLKATA] PHP Parse error:  syntax error, unexpected '$current_date444' (T_VARIABLE), expecting ',' or ';' in /home/oonir/public_html/ws/application/models/Tran_model.php on line 453
+[01-Mar-2016 00:46:10 America/Chicago] PHP Parse error:  syntax error, unexpected '': '' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 4506
+[01-Mar-2016 00:46:12 America/Chicago] PHP Parse error:  syntax error, unexpected '': '' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 4506
+[01-Mar-2016 01:09:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 1199
+[01-Mar-2016 01:09:41 America/Chicago] PHP Parse error:  syntax error, unexpected '("upd' in /home/oonir/public_html/ws/application/controllers/Api.php on line 4699
+[01-Mar-2016 02:31:23 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 4186
+[01-Mar-2016 02:35:14 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 535
+[01-Mar-2016 02:35:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 535
+[01-Mar-2016 02:35:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 3934
+[01-Mar-2016 04:47:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oonir/public_html/ws/application/controllers/Api.php on line 1495
+[01-Mar-2016 04:47:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oonir/public_html/ws/application/controllers/Api.php on line 1495
+[01-Mar-2016 04:47:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oonir/public_html/ws/application/controllers/Api.php on line 1495
+[01-Mar-2016 04:47:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oonir/public_html/ws/application/controllers/Api.php on line 1495
+[01-Mar-2016 04:47:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oonir/public_html/ws/application/controllers/Api.php on line 1495
+[01-Mar-2016 04:47:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oonir/public_html/ws/application/controllers/Api.php on line 1495
+[02-Mar-2016 01:46:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 81
+[02-Mar-2016 01:46:58 America/Chicago] PHP Parse error:  syntax error, unexpected ' 	= array('' in /home/oonir/public_html/ws/application/controllers/Api.php on line 2942
+[02-Mar-2016 02:12:18 America/Chicago] PHP Parse error:  syntax error, unexpected '['truck_id' in /home/oonir/public_html/ws/application/controllers/Api.php on line 1028
+[02-Mar-2016 16:28:17 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function substring() in /home/oonir/public_html/ws/application/controllers/Api.php on line 4185
+[02-Mar-2016 05:00:23 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 229
+[02-Mar-2016 16:30:25 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function word_limiter() in /home/oonir/public_html/ws/application/controllers/Api.php on line 4185
+[02-Mar-2016 16:32:48 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function word_limiter() in /home/oonir/public_html/ws/application/controllers/Api.php on line 4185
+[02-Mar-2016 16:32:56 ASIA/KOLKATA] PHP Fatal error:  Call to undefined function word_limiter() in /home/oonir/public_html/ws/application/controllers/Api.php on line 4185
+[02-Mar-2016 07:43:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/oonir/public_html/ws/application/controllers/Api.php on line 150
+[04-Mar-2016 01:09:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 81
+[07-Mar-2016 08:39:28 America/Chicago] PHP Parse error:  syntax error, unexpected ''select ts.user_id as customer' (T_ENCAPSED_AND_WHITESPACE) in /home/oonir/public_html/ws/application/controllers/Api.php on line 2241
+[07-Mar-2016 09:38:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 533
+[09-Mar-2016 03:09:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 1616
+[09-Mar-2016 03:24:19 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/oonir/public_html/ws/application/controllers/Api.php on line 5073
+[09-Mar-2016 03:24:21 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/oonir/public_html/ws/application/controllers/Api.php on line 5073
+[09-Mar-2016 03:24:33 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/oonir/public_html/ws/application/controllers/Api.php on line 5073
+[09-Mar-2016 03:24:55 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/oonir/public_html/ws/application/controllers/Api.php on line 5073
+[09-Mar-2016 06:39:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 229
+[09-Mar-2016 06:39:10 America/Chicago] PHP Parse error:  syntax error, unexpected ''select ts.user_id as customer' (T_ENCAPSED_AND_WHITESPACE) in /home/oonir/public_html/ws/application/controllers/Api.php on line 2244
+[10-Mar-2016 03:10:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 229
+[11-Mar-2016 01:54:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oonir/public_html/ws/application/controllers/Api.php on line 212
+[11-Mar-2016 01:54:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oonir/public_html/ws/application/controllers/Api.php on line 212
+[11-Mar-2016 06:30:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/oonir/public_html/ws/application/controllers/Api.php on line 552
+[11-Mar-2016 06:32:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/oonir/public_html/ws/application/controllers/Api.php on line 552
+[11-Mar-2016 06:32:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/oonir/public_html/ws/application/controllers/Api.php on line 552
+[11-Mar-2016 06:56:27 America/Chicago] PHP Parse error:  syntax error, unexpected ' = $rs[$i]['tra' in /home/oonir/public_html/ws/application/controllers/Api.php on line 2897
+[11-Mar-2016 07:02:30 America/Chicago] PHP Parse error:  syntax error, unexpected ' 	= $result_' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3568
+[11-Mar-2016 08:04:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 1170
+[14-Mar-2016 08:56:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 83
+[14-Mar-2016 08:56:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 233
+[14-Mar-2016 09:02:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 1169
+[14-Mar-2016 09:04:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2245
+[14-Mar-2016 09:17:50 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 2448
+[14-Mar-2016 09:17:52 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/oonir/public_html/ws/application/controllers/Api.php on line 2448
+[14-Mar-2016 09:29:28 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/oonir/public_html/ws/application/controllers/Api.php on line 1169
+[16-Mar-2016 02:15:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 546
+[16-Mar-2016 10:41:18 America/Chicago] PHP Parse error:  syntax error, unexpected ');			' in /home/oonir/public_html/ws/application/controllers/Api.php on line 3694
+[16-Mar-2016 10:51:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 546
+[16-Mar-2016 11:06:07 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 546
+[17-Mar-2016 06:25:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 83
+[17-Mar-2016 06:25:47 America/Chicago] PHP Parse error:  syntax error, unexpected ''" and dispatch_status=4');' (T_ENCAPSED_AND_WHITESPACE) in /home/oonir/public_html/ws/application/controllers/Api.php on line 3929
+[17-Mar-2016 07:43:22 America/Chicago] PHP Parse error:  syntax error, unexpected ''truck_stat' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/oonir/public_html/ws/application/controllers/Api.php on line 1167
+[17-Mar-2016 08:12:40 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5731
+[17-Mar-2016 08:12:48 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5731
+[17-Mar-2016 08:13:00 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5731
+[17-Mar-2016 08:13:21 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5731
+[17-Mar-2016 08:13:40 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5731
+[17-Mar-2016 08:14:00 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5731
+[17-Mar-2016 08:14:06 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5731
+[17-Mar-2016 08:14:20 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5731
+[17-Mar-2016 08:14:40 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5731
+[17-Mar-2016 08:15:01 America/Chicago] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5731
+[17-Mar-2016 08:15:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 4521
+[18-Mar-2016 02:15:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''Verified successf' (T_ENCAPSED_AND_WHITESPACE) in /home/oonir/public_html/ws/application/controllers/Api.php on line 215
+[18-Mar-2016 07:33:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$query = $t' in /home/oonir/public_html/ws/application/controllers/Api.php on line 4321
+[18-Mar-2016 09:42:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 3515
+[18-Mar-2016 09:42:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 5003
+[18-Mar-2016 09:42:36 America/Chicago] PHP Parse error:  syntax error, unexpected '"N/A"' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5588
+[18-Mar-2016 09:42:39 America/Chicago] PHP Parse error:  syntax error, unexpected '"N/A"' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5588
+[18-Mar-2016 09:42:47 America/Chicago] PHP Parse error:  syntax error, unexpected '"N/A"' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5588
+[18-Mar-2016 09:42:49 America/Chicago] PHP Parse error:  syntax error, unexpected '"N/A"' (T_CONSTANT_ENCAPSED_STRING) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5588
+[18-Mar-2016 10:55:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$remain_name' (T_VARIABLE) in /home/oonir/public_html/ws/application/controllers/Api.php on line 5493
+[21-Mar-2016 07:48:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/oonir/public_html/ws/application/controllers/Api.php on line 4640
+[22-Mar-2016 10:41:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 4096
+[03-May-2016 23:11:18 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 3799
+[04-May-2016 05:22:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2138
+[04-May-2016 05:27:00 America/Chicago] PHP Parse error:  syntax error, unexpected ''Please enter val' (T_ENCAPSED_AND_WHITESPACE) in /home/oonir/public_html/ws/application/controllers/Api.php on line 822
+[04-May-2016 06:17:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2138
+[04-May-2016 06:19:36 America/Chicago] PHP Parse error:  syntax error, unexpected '['created' in /home/oonir/public_html/ws/application/controllers/Api.php on line 4828
+[04-May-2016 06:20:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 404
+[04-May-2016 06:21:28 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 404
+[04-May-2016 06:22:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 404
+[04-May-2016 06:23:00 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 3799
+[04-May-2016 06:23:18 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 2138
+[04-May-2016 06:30:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oonir/public_html/ws/application/controllers/Api.php on line 404
